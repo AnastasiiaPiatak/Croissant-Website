@@ -1,5 +1,6 @@
 body {
   background-color: #6b7d88;
+  margin: 10px;
 }
 h1 {
   text-align: center;
@@ -28,3 +29,13 @@ a:hover {
   text-decoration: underline;
   color: #d3c9a8;
 }
+.site-name{
+    color: #634710; 
+}
+
+img {
+        margin-bottom: 10px;
+        border-radius: 5px;
+        width: 100%;
+        height: auto;
+      }
